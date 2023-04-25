@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySecondApp</string>
+    <string name="name">Name:</string>
+    <string name="B1">Login</string>
+    <string name="B2">Cancel</string>
+    <string name="password">Password:</string>
+</resources>
